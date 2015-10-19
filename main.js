@@ -1,5 +1,5 @@
 App.onLaunch = function(options) {
-    var mainURL = 'https://db.tt/rYiUsNJX';
+    var mainURL = 'https://github.com/gucesone/appletv/blob/master/main.tvml';
     var xmlhttp = new XMLHttpRequest();
     xmlhttp.responseType = "document";
     xmlhttp.onload = function () {
